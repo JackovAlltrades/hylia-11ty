@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
 title: new post for fathers day
-metaTitle: history of fathers day
-metaDesc: the funny story of how and when fathers day started
+metaTitle: ""
+metaDesc: ""
 date: 2021-06-13T13:02:58.216Z
 tags:
   - father's day
